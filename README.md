@@ -2,7 +2,6 @@
 Advanced clinical decision support for CPRS
 
 
-# VSCode Server
-
-![Alt text](vista-vscode-ydb.webp?raw=true "YDB View")
+## Getting Started
+![Alt text](01_Getting Started.webm?raw=true "Getting Started")
 
