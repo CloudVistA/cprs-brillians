@@ -1,6 +1,9 @@
 # brillians
 Advanced clinical decision support for CPRS
 
+# website
+https://www.brillians.com/
+
 
 ## Getting Started
 https://youtu.be/QttZGIh5xPY
